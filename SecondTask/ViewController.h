@@ -6,9 +6,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewUserInfo.h"
+#import "UserInfo.h"
+
+
 
 @interface ViewController : UIViewController
-
+{
+    
+}
 
 @end
+
+
 
